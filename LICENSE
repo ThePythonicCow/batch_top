@@ -1,1 +1,8 @@
 
+This project provides the "batch_top" utility, for efficient tracking and logging processes that are overloading the system
+
+This project's source code is Copyright 2023 by Paul Jackson pj@usa.net and licensed under your choice of:
+
+Apache License, Version 2.0 (see the "licenses.dir/LICENSE-APACHE" file),
+MIT (see the "licenses.dir/LICENSE-MIT.txt" file), and/or
+GNU GENERAL PUBLIC LICENSE Version 2 (see the "licenses.dir/COPYING.GPLv2" file).
